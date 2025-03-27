@@ -1,0 +1,8 @@
+# R Studio bookkeeping
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Ignore large keras venv dir
+r-keras/
