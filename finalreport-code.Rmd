@@ -49,8 +49,8 @@ knitr::opts_chunk$set(
 ## Load Train and Test Data
 
 ```{r load_train_test}
-train <- read_csv("train.csv")
-train <- read_csv("test.csv")
+train_data <- read_csv("train.csv")
+test_data <- read_csv("test.csv")
 ```
 
 

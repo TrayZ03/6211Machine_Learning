@@ -3,6 +3,7 @@
 .Rhistory
 .RData
 .Ruserdata
+project.Rproj
 
 # Ignore large keras venv dir
 r-keras/
