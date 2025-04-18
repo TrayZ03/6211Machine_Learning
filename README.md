@@ -4,7 +4,7 @@ This project develops a deep neural network model to predict hotel booking cance
 
 # Setup Instructions
 
-This project uses `R`'s `keras3` package with tensorflow backend. [To install this backend, run](https://keras.posit.co/articles/getting_started.html) - run the following line once
+This project uses `R`'s `keras3` package with tensorflow backend. [To install this backend](https://keras.posit.co/articles/getting_started.html) - run the following line once
 
 > keras3::install_keras(backend = "tensorflow")
 
