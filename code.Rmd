@@ -1,5 +1,5 @@
 ---
-title: "DSE6211 Final Report - Code Notebook"
+title: "DSE6211 Machine Learning"
 author: "Tracey Zicherman"
 date: "2024-04-01"
 output:
@@ -192,6 +192,3 @@ metrics <- bind_rows(accuracy, precision, recall, f1_score)
 Test accuracy is relatively close, though slightly lower than, validation accuracy, which is perhaps not surprising.
 
 
-##
-
-## 
